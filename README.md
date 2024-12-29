@@ -8,7 +8,9 @@
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   [掘金优秀作者](https://juejin.cn/user/1214304985296439/posts)：发表了 30 篇技术文章，15万阅读。
+-   [我的bio](https://e-z.bio/xiaohanbao)
+-   [YouTube](https://www.youtube.com/@xiaohanbao233))
+-   [哔哩哔哩](https://space.bilibili.com/447374952)
 
 <br><br><br>
 
