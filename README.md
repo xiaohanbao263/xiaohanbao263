@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 -   [我的bio](https://e-z.bio/xiaohanbao)
--   [YouTube](https://www.youtube.com/@xiaohanbao233))
+-   [YouTube](https://www.youtube.com/@xiaohanbao233)
 -   [哔哩哔哩](https://space.bilibili.com/447374952)
 
 <br><br><br>
