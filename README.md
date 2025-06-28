@@ -1,13 +1,12 @@
 <img align="right" src="https://count.getloli.com/get/@:xiaohanbao263?theme=rule34">
 
-## 我的世界超级黑客大神—xiaohanbao
+## xiaohanbao
 
 
 ### **社交主页：**
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   [我的bio](https://e-z.bio/xiaohanbao)
 -   [YouTube](https://www.youtube.com/@xiaohanbao233)
 -   [哔哩哔哩](https://space.bilibili.com/447374952)
 
